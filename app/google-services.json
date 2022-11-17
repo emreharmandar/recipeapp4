@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986558046645",
+    "project_id": "dolabindakiler-7a6e3",
+    "storage_bucket": "dolabindakiler-7a6e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986558046645:android:a4ce50e54095286d9af9fc",
+        "android_client_info": {
+          "package_name": "emre.harmandar.dolabndakiler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986558046645-j1e88uuagc8nb47h8i06k5qub3oleste.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1CF4iEV_UKGggnmmKonVO1HEml1zfLfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986558046645-j1e88uuagc8nb47h8i06k5qub3oleste.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
